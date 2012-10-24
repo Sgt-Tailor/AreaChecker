@@ -1,0 +1,12 @@
+name: AreaChecker
+main: me.sgt_tailor.areachecker.AreaChecker
+author: Sgt_Tailor
+description: Checks if a player is in an area
+version: 0.1
+commands:
+    accreate:
+        usage: /accreate <name>
+    acpoint1:
+        usage: /acpoint1
+    acpoint2:
+        usage: /acpoint2

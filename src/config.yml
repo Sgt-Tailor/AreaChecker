@@ -1,0 +1,9 @@
+##################################################
+#             AreaChecker config file            #
+##################################################
+#you can change the properties of the areas in this
+#config file yourself. Changes to only take place
+#after the server has been reloaded. These are the
+#default areas. You can only change these from this
+#file as it is right now
+area-names: []
